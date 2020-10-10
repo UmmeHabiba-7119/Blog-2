@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="Templatemanja" name="author">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Morus is a very clean and modern Magazine / Blog Html Template. It's perfect for fast blogging, livestreams and classic blogs">
+<meta name="description" content="Morus morus is a very clean and modern Magazine / Blog Html Template. It's perfect for fast blogging, livestreams and classic blogs">
 <meta name="keywords" content="	blog, clean, newspaper, personal blog, magazine, sport, travel, minimal, personal, elegant, lifestyle, post, blogger, blog template.">
 
 <!-- SITE TITLE -->
